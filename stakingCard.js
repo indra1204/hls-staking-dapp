@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { ethers } from 'ethers';
 
-const contractAddress = "0x3de3a7a0cacdaff8f725ded46bfc27263c100a16";
+const contractAddress = "0xbE8Ec9D91C13c51fC27563bcD208521084b665Af";
 
 // Minimal ABI untuk baca saldo
 const abi = [
